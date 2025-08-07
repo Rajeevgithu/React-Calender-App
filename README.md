@@ -7,6 +7,12 @@ A modern, responsive calendar application built with React for agenda and event 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4.0+-cyan.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
+## 🌐 Live Demo
+
+**[🚀 View Live Demo](https://react-calender-app-psi.vercel.app/)**
+
+Experience the full application with all features including event creation, theme switching, and responsive design.
+
 ## ✨ Features
 
 ### 🎯 Core Features
